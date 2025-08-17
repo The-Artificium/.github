@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/162782545?v=4" width="120" alt="The-Artificium Logo" />
+  <img src="[https://avatars.githubusercontent.com/u/162782545?v=4](https://avatars.githubusercontent.com/u/200204185?s=400&u=4907738da6a28c853fce29f48a7a4fbc278c1005&v=4)" width="120" alt="The-Artificium Logo" />
 </p>
 
 # Welcome to The-Artificium
